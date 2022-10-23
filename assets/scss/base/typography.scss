@@ -1,0 +1,9 @@
+html {
+    font-size:16px;
+}
+
+body {
+    // 1rem is equal to the base PX font size set on <html>
+    font-size:1rem;
+    font-family:$baseFontFamily;
+}
